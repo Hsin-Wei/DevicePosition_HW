@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DevicePosition_HW</string>
+    <string name="prompt_log">Log:</string>
+</resources>
